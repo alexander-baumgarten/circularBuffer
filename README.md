@@ -1,4 +1,4 @@
-# Circular Buffer - COMS 352
+# Multi Threaded File Encryption - COMS 352
 
 
 ## Description
